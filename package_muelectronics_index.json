@@ -1,0 +1,56 @@
+{
+  "packages": [
+    {
+      "name": "MU Electronics",
+      "maintainer": "MU Electronics",
+      "websiteURL": "https://github.com/MU-Electronics",
+      "email": "CHEMELEC@listserv.manchester.ac.uk",
+      "help": {
+        "online": "https://github.com/MU-Electronics/arduino-board-index/issues"
+      },
+      "platforms": [
+        {
+          "name": "MU-Electronics SAMD Boards",
+          "architecture": "samd",
+          "version": "1.0.0",
+          "category": "MU Electronics",
+          "url": "https://github.com/MU-Electronics/arduino-board-index/boards/muelectronics-samd-1.0.0.tar.bz2",
+          "archiveFileName": "muelectronics-samd-1.0.0.tar.bz2",
+          "checksum": "SHA-256:5EAC351FDDBFF6589401B0EA288F1C2CF955CFE3B16D536AA482407C051DEBD3",
+          "size": "455885",
+          "help": {
+            "online": "https://github.com/MU-Electronics/arduino-board-index/issues"
+          },
+          "boards": [
+          {
+            "name": "MU Electronics M0"
+          }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.6.1-arduino"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.9.0-arduino"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.0.0-atmel"
+            }
+          ]
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
