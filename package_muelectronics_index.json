@@ -14,7 +14,7 @@
           "architecture": "samd",
           "version": "1.0.0",
           "category": "MU Electronics",
-          "url": "https://github.com/MU-Electronics/arduino-board-index/boards/muelectronics-samd-1.0.0.tar.bz2?raw=true",
+          "url": "https://github.com/MU-Electronics/arduino-board-index/raw/master/boards/muelectronics-samd-1.0.0.tar.bz2",
           "archiveFileName": "muelectronics-samd-1.0.0.tar.bz2",
           "checksum": "SHA-256:5EAC351FDDBFF6589401B0EA288F1C2CF955CFE3B16D536AA482407C051DEBD3",
           "size": "455885",
